@@ -6,3 +6,6 @@ Super Tic Tac Toe is an advanced version of traditional Tic Tac Toe, played on a
 3. To win, a player must win three mini-boards in a row, column, or diagonal, just like regular Tic Tac Toe but at a macro level.
 4. Strategic play is crucial, as each move determines where the opponent can play next.
 This version adds depth, strategy, and unpredictability to the classic game!
+
+TO WATCH THE EXPLANATION GO TO THIS YOUTUBE LINK:
+https://www.youtube.com/watch?v=_Na3a1ZrX7c
